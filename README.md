@@ -22,9 +22,9 @@ Performed complete Manual Testing on a sample e-commerce web app to validate fun
 
 ## Tasks Performed
 
--Prepared and executed 50+ comprehensive test scenarios ensuring full coverage of functional requirements  
--Reported and tracked 13 valid defects with correct severity and priority categorization  
--Performed System Testing to validate the end-to-end functionality of the application
+- Prepared and executed 50+ comprehensive test scenarios ensuring full coverage of functional requirements  
+- Reported and tracked 13 valid defects with correct severity and priority categorization  
+- Performed System Testing to validate the end-to-end functionality of the application
 
 ## Results
 - Improved application stability by validating all core user journeys 
@@ -32,7 +32,7 @@ Performed complete Manual Testing on a sample e-commerce web app to validate fun
 ## Author
 Prepared by-KUNAL BALAJI GAIKAR- MANUAL TESTER  
 Manual Testing Fresher  
-Mail: kunalgaikar2156@gmail.com
+Mail ID: kunalgaikar2156@gmail.com
 
 
 ## Notes
