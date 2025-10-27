@@ -30,8 +30,7 @@ Performed complete Manual Testing on a sample e-commerce web app to validate fun
 - Improved application stability by validating all core user journeys 
 
 ## Author
-Prepared by-KUNAL BALAJI GAIKAR- MANUAL TESTER  
-Manual Testing Fresher  
+Prepared by-KUNAL BALAJI GAIKAR- MANUAL TESTING FRESHER 
 Mail ID: kunalgaikar2156@gmail.com
 
 
